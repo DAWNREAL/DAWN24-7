@@ -1,0 +1,5 @@
+{
+	"ip":"Ottoman_Army.aternos.me",
+	"port": "62509",
+	"name": "24/7HelperDontchat"
+}
